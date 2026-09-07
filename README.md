@@ -2,4 +2,4 @@
 test n8n
 check after setting connection to git
 
-check n8n trigger. check if blocks. test rows in table.
+check n8n trigger. check if blocks. test rows in table. aifa.
